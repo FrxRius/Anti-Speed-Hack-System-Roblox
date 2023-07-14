@@ -1,0 +1,4 @@
+if game:GetService("Players").LocalPlayer.Character.Humanoid.WalkSpeed > 16 then
+game:GetService("Players").LocalPlayer:Kick("Exploiting")
+print("An Player Was Caught Exploiting")
+end
